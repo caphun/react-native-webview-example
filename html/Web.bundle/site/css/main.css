@@ -1,0 +1,4 @@
+body { font-family: sans-serif; font-size: 16px; }
+button { width: 100%; background: black; border: none; color: white; text-transform: uppercase; padding: 20px; font-size: 18px; }
+.code { font-family: monospace; font-size: 12px; }
+.warn { color: red; }
