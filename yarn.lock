@@ -3944,9 +3944,10 @@ react-is@^16.6.3:
   version "16.7.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.7.0.tgz#c1bd21c64f1f1364c6f70695ec02d69392f41bfa"
 
-react-native-webview@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-3.1.2.tgz#952a137774974d21a3c571356291ceabe0a68660"
+react-native-webview@^5.2.4:
+  version "5.2.4"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-5.2.4.tgz#9fbcc67e99f3cc9b1ca0eb102e5550026ac3f8e2"
+  integrity sha512-X2Ygv+gqfh6/GIhIVQtqgUH4+onOBgGmujDfuYExkhDNy4JG2xPioxPG6l2CUSFxLo1yAWOn3erwV22nbTCAgQ==
   dependencies:
     escape-string-regexp "^1.0.5"
     fbjs "^0.8.17"
